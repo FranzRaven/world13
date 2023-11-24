@@ -1,5 +1,5 @@
 ---
-title : 'El Caos Y La Mierda en JsWold'
+title : 'El Caos Y La Mierda en JsWorld'
 date : 2023-11-23T13:30:38-03:00
 categories :  programacion  web
 ---

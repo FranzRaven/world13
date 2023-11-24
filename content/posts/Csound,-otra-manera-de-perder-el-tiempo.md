@@ -4,7 +4,7 @@ date : 2023-11-23T15:44:56-03:00
 categorie: composición csound programación
 ---
 
-De las tantas formas que existen para desperdiciar la vida, os presento una más y que aunque así presentada puede parecer que no da más que para un pasatiempo de un par de días, por lo contrario puede llegar a ser la actividad que te haga olvidar la propia mortalidad hasta que esa misma condición te despierte, o no, a último momento.
+De las tantas formas que existen para desperdiciar la vida, os presento una más y que aunque así presentada puede parecer que no de más que para un pasatiempo de un par de días, por lo contrario puede llegar a ser la actividad que te haga olvidar la propia mortalidad hasta que esa misma condición te despierte, o no, a último momento.
 Cosa curiosa eso de la mortalidad, cosa tan esquiva pero que cuando amenaza firme el hombre se quiebra y comienza a querer cambiar, aunque no lo haga una vez pasado el peligro en la mayoría de las veces.
 
 Csound, lenguaje de programación, creación, edición, y procesamiento avanzado de audio. No podría decir cuantas horas de mi vida desperdicié frente a la pantalla escribiendo y ejecutando código para renderizar la mayoría de las veces nada de lo que uno esperaba aunque a menudo con sorprendentes resultados. Es del todo contra intuitivo el flujo de trabajo con este lenguaje, al menos en la parte compositiva, de creación; por lo general uno ejecuta un instrumento y al instante un sonido se materializa pudiendo seguir así para ejecutar una secuencia, ir probando nuevas progresiones o simplemente oír como suena el instrumento.
