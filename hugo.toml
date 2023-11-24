@@ -1,4 +1,8 @@
 baseURL = 'https://franzraven.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Franz`s 13° W0rld'
 theme = 'ananke'
+
+[Permalinks]
+    post = "/:filename/"
+

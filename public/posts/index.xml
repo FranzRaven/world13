@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Franz`s 13° W0rld</title>
-    <link>https://franzraven.github.io/</link>
-    <description>Recent content on Franz`s 13° W0rld</description>
+    <title>Posts on Franz`s 13° W0rld</title>
+    <link>https://franzraven.github.io/posts/</link>
+    <description>Recent content in Posts on Franz`s 13° W0rld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Nov 2023 15:44:56 -0300</lastBuildDate>
-    <atom:link href="https://franzraven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://franzraven.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Csound, Otra Manera De Perder El Tiempo</title>
       <link>https://franzraven.github.io/posts/csound-otra-manera-de-perder-el-tiempo/</link>

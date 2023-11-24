@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programacion  web on Franz`s 13° W0rld</title>
+    <link>https://franzraven.github.io/categories/programacion-web/</link>
+    <description>Recent content in programacion  web on Franz`s 13° W0rld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Nov 2023 13:30:38 -0300</lastBuildDate>
+    <atom:link href="https://franzraven.github.io/categories/programacion-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Caos Y La Mierda en JsWold</title>
+      <link>https://franzraven.github.io/posts/el-caos-y-la-mierda-en-jswold/</link>
+      <pubDate>Thu, 23 Nov 2023 13:30:38 -0300</pubDate>
+      <guid>https://franzraven.github.io/posts/el-caos-y-la-mierda-en-jswold/</guid>
+      <description>Javascript pareciera ser esas cosas que todos usan porque no queda otro remedio, es complicado, retorcido, lento y poco efectivo. Pero al mismo tiempo es una herramienta que por defecto se interpreta en el navegador sin necesidad de nada, he ahí su popularidad, ya está ahí y es lo único que nativamente interpreta el browser, en fin, basta de explicar lo inexplicable.
+Mi problema radica en la importación de módulos (ECMAScript) y los problemas con el sandbox y demás cuestiones que se van manifestando.</description>
+    </item>
+  </channel>
+</rss>
