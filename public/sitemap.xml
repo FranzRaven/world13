@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://franzraven.github.io/categories/</loc>
-    <lastmod>2023-11-24T11:14:10-03:00</lastmod>
-  </url><url>
     <loc>https://franzraven.github.io/</loc>
+    <lastmod>2023-11-29T11:34:15-03:00</lastmod>
+  </url><url>
+    <loc>https://franzraven.github.io/posts/</loc>
+    <lastmod>2023-11-29T11:34:15-03:00</lastmod>
+  </url><url>
+    <loc>https://franzraven.github.io/posts/tomar-t%C3%A9-y-fumar-una-aproximaci%C3%B3n-al-zen/</loc>
+    <lastmod>2023-11-29T11:34:15-03:00</lastmod>
+  </url><url>
+    <loc>https://franzraven.github.io/categories/</loc>
     <lastmod>2023-11-24T11:14:10-03:00</lastmod>
   </url><url>
     <loc>https://franzraven.github.io/categories/iaido-zen/</loc>
     <lastmod>2023-11-24T11:14:10-03:00</lastmod>
   </url><url>
     <loc>https://franzraven.github.io/posts/iaido-y-el-zen-a-la-hora-de-rabanar-a-los-enemigos/</loc>
-    <lastmod>2023-11-24T11:14:10-03:00</lastmod>
-  </url><url>
-    <loc>https://franzraven.github.io/posts/</loc>
     <lastmod>2023-11-24T11:14:10-03:00</lastmod>
   </url><url>
     <loc>https://franzraven.github.io/posts/csound-otra-manera-de-perder-el-tiempo/</loc>

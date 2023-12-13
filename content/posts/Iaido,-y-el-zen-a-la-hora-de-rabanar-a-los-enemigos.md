@@ -17,8 +17,8 @@ Cuál es pues, el inicio del Iaido y como difiere del del Aikido.
 
 No es desconocido como y con que fines fue fundado el Aikido, al ser perfectamente conocido y contemporáneo su fundador lo sabemos casi todo con bastante certeza. \
 Pues bien, con respecto al Iaido tenemos varios problemas, primero: su origen, que si bien también como el Aikido bastante moderno su basamento se pierde en las nieblas del japón guerrero medieval. En un inicio las espadas eran espadas de verdad y la gente se mataba con ellas. \
-No quiero decir que el Aikido no tenga también su origen en el campo de batalla pero resulta que este último explícitamente declara que desea obtener la paz y en última instancia causar el menor daño al oponente, eso jamás se dice en Iaido. Es más, la práctica debe realizarse siempre visualizando al enemigo y en esa dinámica este debe ser muerto, no hay eufemismos ni infantilismos al estilo Disney. \
+No quiero decir que el Aikido no tenga también su origen en el campo de batalla pero resulta que este último explícitamente declara que desea obtener la paz y en última instancia causar el menor daño al oponente, eso jamás se dice en Iaido, en realidad hay un par de escuelas que promulgan la paz. Pero, la práctica debe realizarse siempre visualizando al enemigo y en esa dinámica este debe ser muerto, no hay eufemismos ni infantilismos al estilo Disney. Por mas que se predique paz debe visualizarse al oponente partido al medio en cada nukitsuke, en cada kiritsuke. \
 Como dije antes son actividades muy diferentes.
 
-A mi lo que mas me llama la atención es que el Aikido está profundamente influenciado por el sintoísmo, por una secta muy en particular, mientras que el Iaido exuda budismo zen por todos sus poros y creo que esa es la gran diferencia fundacional que les confiere caracteres esencialmente, sino opuestos, bastante particulares.
-
+A mi lo que mas me llama la atención es que el Aikido está profundamente influenciado por el sintoísmo, por una secta muy en particular, mientras que el Iaido exuda budismo zen por todos sus poros y creo que esa es la gran diferencia fundacional que les confiere caracteres esencialmente, sino opuestos, bastante particulares. \
+Podría parece exagerada esta idea pero a mi me causó una especie de revelación, un satori occidental, paupérrimo  y pequeño.
