@@ -9,5 +9,6 @@ categories:
 Hace un par días encontré tirada, apoyada mas bien contra el cerco perimetral de mi casa, la cortadora de césped de mi abuelo. Oxidada, trabada, hecha un nido de arañas y mugre. \
 En un arrebato de proactividad sinsentido decidí restaurarla y ver como funcionaba esa maquina de por lo menos 60 años.
 
-
+Transcurridas varias semanas de acondicionamiento, desensamblaje, limpieza de óxido, arreglo o sustitución de piezas rotas, engrasado y reensamblaje me di a la tarea de probar el vetusto aparato.
+Para mi sorpresa no sólo funcionó muy bien sino que superando ampliamente mis espectativas desplazó a la moderna maquina eléctrica de sus funciones. \ 
 

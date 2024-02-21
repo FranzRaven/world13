@@ -13,8 +13,7 @@
       <link>https://franzraven.github.io/posts/el-caos-y-la-mierda-en-jsworld/</link>
       <pubDate>Thu, 23 Nov 2023 13:30:38 -0300</pubDate>
       <guid>https://franzraven.github.io/posts/el-caos-y-la-mierda-en-jsworld/</guid>
-      <description>Javascript pareciera ser esas cosas que todos usan porque no queda otro remedio, es complicado, retorcido, lento y poco efectivo. Pero al mismo tiempo es una herramienta que por defecto se interpreta en el navegador sin necesidad de nada, he ahí su popularidad, ya está ahí y es lo único que nativamente interpreta el browser, en fin, basta de explicar lo inexplicable.
-Mi problema radica en la importación de módulos (ECMAScript) y los problemas con el sandbox y demás cuestiones que se van manifestando.</description>
+      <description>Javascript pareciera ser esas cosas que todos usan porque no queda otro remedio, es complicado, retorcido, lento y poco efectivo. Pero al mismo tiempo es una herramienta que por defecto se interpreta en el navegador sin necesidad de nada, he ahí su popularidad, ya está ahí y es lo único que nativamente interpreta el browser, en fin, basta de explicar lo inexplicable.&#xA;Mi problema radica en la importación de módulos (ECMAScript) y los problemas con el sandbox y demás cuestiones que se van manifestando.</description>
     </item>
   </channel>
 </rss>
