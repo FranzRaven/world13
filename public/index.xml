@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franz`s 13° W0rld</title>
-    <link>https://franzraven.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Franz`s 13° W0rld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Dec 2023 16:00:50 -0300</lastBuildDate>
-    <atom:link href="https://franzraven.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De Como La Eletricidad Volvió Al Hombre Un Mierdita</title>
-      <link>https://franzraven.github.io/posts/de-como-la-eletricidad-volvi%C3%B3-al-hombre-un-mierdita/</link>
+      <link>http://localhost:1313/posts/de-como-la-eletricidad-volvi%C3%B3-al-hombre-un-mierdita/</link>
       <pubDate>Wed, 13 Dec 2023 16:00:50 -0300</pubDate>
-      <guid>https://franzraven.github.io/posts/de-como-la-eletricidad-volvi%C3%B3-al-hombre-un-mierdita/</guid>
+      <guid>http://localhost:1313/posts/de-como-la-eletricidad-volvi%C3%B3-al-hombre-un-mierdita/</guid>
       <description>Hace un par días encontré tirada, apoyada mas bien contra el cerco perimetral de mi casa, la cortadora de césped de mi abuelo. Oxidada, trabada, hecha un nido de arañas y mugre. En un arrebato de proactividad sinsentido decidí restaurarla y ver como funcionaba esa maquina de por lo menos 60 años.&#xA;Transcurridas varias semanas de acondicionamiento, desensamblaje, limpieza de óxido, arreglo o sustitución de piezas rotas, engrasado y reensamblaje me di a la tarea de probar el vetusto aparato.</description>
     </item>
     <item>
       <title>Tomar Té Y Fumar, Una Aproximación Al Zen</title>
-      <link>https://franzraven.github.io/posts/tomar-t%C3%A9-y-fumar-una-aproximaci%C3%B3n-al-zen/</link>
+      <link>http://localhost:1313/posts/tomar-t%C3%A9-y-fumar-una-aproximaci%C3%B3n-al-zen/</link>
       <pubDate>Wed, 29 Nov 2023 11:34:15 -0300</pubDate>
-      <guid>https://franzraven.github.io/posts/tomar-t%C3%A9-y-fumar-una-aproximaci%C3%B3n-al-zen/</guid>
+      <guid>http://localhost:1313/posts/tomar-t%C3%A9-y-fumar-una-aproximaci%C3%B3n-al-zen/</guid>
       <description>Sé que me van a decir que el fumar no es saludable y no sé cuantas cosas más, tienen razón pero la verdad no me importa, cada cual intenta comprender y transitar el mundo de la manera que puede. Además que esa misma gente que critica el uso del tabaco suele fumar las peores porquerías alegando expansión mental y otras idioteces cuando visiblemente poseen tres neuronas flotando en un caldo de seso sazonado con su droga preferida, solventes y su estúpida exaltación personal.</description>
     </item>
     <item>
       <title>Iaido, Y El Zen a La Hora De Rabanar a Los Enemigos</title>
-      <link>https://franzraven.github.io/posts/iaido-y-el-zen-a-la-hora-de-rabanar-a-los-enemigos/</link>
+      <link>http://localhost:1313/posts/iaido-y-el-zen-a-la-hora-de-rabanar-a-los-enemigos/</link>
       <pubDate>Fri, 24 Nov 2023 11:14:10 -0300</pubDate>
-      <guid>https://franzraven.github.io/posts/iaido-y-el-zen-a-la-hora-de-rabanar-a-los-enemigos/</guid>
+      <guid>http://localhost:1313/posts/iaido-y-el-zen-a-la-hora-de-rabanar-a-los-enemigos/</guid>
       <description>Cuando inicié la práctica de Iaido nunca imaginé que iba a terminar tan metido en el asunto, calculo que nadie sabe a la hora de ir a probar una actividad si es la indicada para toda la vida o no, ya no sería probar, sería ir decidido a algo. Ahora, transcurridos un par de años desde ese inicio puedo decir con seguridad que complementa perfectamente mi TaiChi, e incluso noto que mi equilibrio, mi respiración, mi concentración mejoraron bastante.</description>
     </item>
     <item>
       <title>Csound, Otra Manera De Perder El Tiempo</title>
-      <link>https://franzraven.github.io/posts/csound-otra-manera-de-perder-el-tiempo/</link>
+      <link>http://localhost:1313/posts/csound-otra-manera-de-perder-el-tiempo/</link>
       <pubDate>Thu, 23 Nov 2023 15:44:56 -0300</pubDate>
-      <guid>https://franzraven.github.io/posts/csound-otra-manera-de-perder-el-tiempo/</guid>
+      <guid>http://localhost:1313/posts/csound-otra-manera-de-perder-el-tiempo/</guid>
       <description>De las tantas formas que existen para desperdiciar la vida, os presento una más y que aunque así presentada puede parecer que no de más que para un pasatiempo de un par de días, por lo contrario puede llegar a ser la actividad que te haga olvidar la propia mortalidad hasta que esa misma condición te despierte, o no, a último momento. Cosa curiosa eso de la mortalidad, cosa tan esquiva pero que cuando amenaza firme el hombre se quiebra y comienza a querer cambiar, aunque no lo haga una vez pasado el peligro en la mayoría de las veces.</description>
     </item>
     <item>
       <title>El Caos Y La Mierda en JsWorld</title>
-      <link>https://franzraven.github.io/posts/el-caos-y-la-mierda-en-jsworld/</link>
+      <link>http://localhost:1313/posts/el-caos-y-la-mierda-en-jsworld/</link>
       <pubDate>Thu, 23 Nov 2023 13:30:38 -0300</pubDate>
-      <guid>https://franzraven.github.io/posts/el-caos-y-la-mierda-en-jsworld/</guid>
+      <guid>http://localhost:1313/posts/el-caos-y-la-mierda-en-jsworld/</guid>
       <description>Javascript pareciera ser esas cosas que todos usan porque no queda otro remedio, es complicado, retorcido, lento y poco efectivo. Pero al mismo tiempo es una herramienta que por defecto se interpreta en el navegador sin necesidad de nada, he ahí su popularidad, ya está ahí y es lo único que nativamente interpreta el browser, en fin, basta de explicar lo inexplicable.&#xA;Mi problema radica en la importación de módulos (ECMAScript) y los problemas con el sandbox y demás cuestiones que se van manifestando.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://franzraven.github.io/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://franzraven.github.io/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>define class</description>
     </item>
     <item>
       <title>In Memoriam Buko</title>
-      <link>https://franzraven.github.io/projects/bukoswkiada_in_memoriam/</link>
+      <link>http://localhost:1313/projects/bukoswkiada_in_memoriam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://franzraven.github.io/projects/bukoswkiada_in_memoriam/</guid>
+      <guid>http://localhost:1313/projects/bukoswkiada_in_memoriam/</guid>
       <description>In Memoriam Buko Idea La idea es sencilla, partiendo de una seleccíon de poemas traduciremos (del alemán, somos complicados, si señor) al español, lo cual no sabemos si se publicará o no para finalmente escribir nuestras propias versiónes. Una revisitación al poema original para ver que nos dice hoy a nos. Básicamente, detrás de toda la pompa es un vil taller literario, al que quien quiera puede sumarse, previa inscripción.</description>
     </item>
   </channel>
