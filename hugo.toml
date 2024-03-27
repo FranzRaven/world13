@@ -2,7 +2,7 @@ baseURL = 'https://franzraven.github.io/'
 languageCode = 'en-us'
 title = 'Franz`s 13° W0rld'
 theme = 'poison'
-
+homepage = "https://franzraven.github.io/world13/"
 #[Permalinks]
 #post = "/:filename/"
 
